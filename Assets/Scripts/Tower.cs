@@ -9,7 +9,7 @@ public class Tower : MonoBehaviour
 
     private void Attack(bool b, int i)
     {
-
+        // I have not reference. 
     }
 
 

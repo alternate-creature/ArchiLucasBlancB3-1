@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 867291858047634000}
   - component: {fileID: 7814055239275379150}
+  - component: {fileID: 3310130792559426444}
   m_Layer: 0
   m_Name: Tower
   m_TagString: Untagged
@@ -91,3 +92,15 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &3310130792559426444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5662468281789217111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509b0a6b541ce5941892c30c4ee93619, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Tower
