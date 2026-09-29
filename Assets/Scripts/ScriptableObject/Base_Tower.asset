@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 62e181009ffc1d040a6684473978d398, type: 3}
-  m_Name: Base_Enemies
-  m_EditorClassIdentifier: Assembly-CSharp::SO_Enemies
-  EnemyType: 1
-  Health: 1
-  Speed: 1
-  MoneyDrop: 1
+  m_Script: {fileID: 11500000, guid: 18bfff9b44144854cba77b5c33581f87, type: 3}
+  m_Name: Base_Tower
+  m_EditorClassIdentifier: Assembly-CSharp::SO_Tower
+  price: 1
+  towerType: 1
+  damage: 1
+  attackSpeede: 1
+  range: 1

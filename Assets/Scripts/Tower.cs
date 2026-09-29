@@ -6,7 +6,7 @@ public class Tower : MonoBehaviour
     private bool isPlaced;
     private bool isInRange;
     private bool hasEnoughCash;
-
+    [SerializeField] private SO_Tower data;
     private void Attack(bool b, int i)
     {
         // I have not reference. 
